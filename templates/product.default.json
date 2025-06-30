@@ -65,6 +65,26 @@
             "open": false
           }
         },
+        "collapsible_content_capRtA": {
+          "type": "collapsible-content",
+          "settings": {
+            "heading": "Shipping Information",
+            "icon": "truck",
+            "text": "<p>Next Day Delivery - Excluding Weekends Free - Spend Over £65.00</p><p>Next Day Delivery - Excluding Weekends £4.99</p><p>International Delivery £20.00</p><p>Our returns process is easier than ever! Head to our <a href=\"https://chetrock.com/pages/uk-returns\" target=\"_blank\" title=\"UK Returns\"><span style=\"text-decoration:underline\">Returns page</span></a> for more info.</p>",
+            "page": "",
+            "open": false
+          }
+        },
+        "collapsible_content_6x9bpN": {
+          "type": "collapsible-content",
+          "settings": {
+            "heading": "Sizing",
+            "icon": "ruler",
+            "text": "<p>For more information on sizing, please visit the sizing guide <a href=\"https://chetrock.com/pages/size-chart\" title=\"Sizing Chart\">here</a>.</p>",
+            "page": "",
+            "open": false
+          }
+        },
         "divider-1": {
           "type": "divider",
           "settings": {
@@ -85,6 +105,8 @@
         "variant-picker",
         "buy_buttons_ntpiPz",
         "collapsible_content_kwaLNg",
+        "collapsible_content_capRtA",
+        "collapsible_content_6x9bpN",
         "divider-1",
         "share"
       ],
