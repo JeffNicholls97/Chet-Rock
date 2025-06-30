@@ -7,11 +7,7 @@
   <div class="main-menu__content has-motion {% if section.settings.quicklinks_menu == blank and section.settings.cta_show == false and section.settings.menu_center %}justify-center{% else %}justify-between{% endif %}">
     <nav aria-label="{{ 'accessibility.main_navigation' | t }}">
       <ul class="main-nav{% if section.settings.quicklinks_menu == blank and section.settings.cta_show == false and section.settings.menu_center %} justify-center{% endif %}">
-                <li>
-          <summary class="main-nav__item--toggle relative js-nav-hover js-toggle">
-            <a class="main-nav__item main-nav__item--primary main-nav__item-content" href="/a/wishlist-hero/wishlist">Wishlist</a>
-            </summary>
-        </li>
+
         {%- for link in section.settings.menu.links -%}
           {%- assign link_title_downcase = link.title | downcase -%}
           <li>
