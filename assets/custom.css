@@ -191,3 +191,7 @@ button.MuiButtonBase-root.MuiButton-root.MuiButton-text.jss9.wishlist-hero-foote
 .card__swatches {
     display: none !important;
 }
+
+  a.mobile-wishlist {
+    display: none !important;
+}
