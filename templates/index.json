@@ -131,13 +131,14 @@
         "collection_dPfVdD": {
           "type": "collection",
           "settings": {
-            "collection": "alternative"
+            "collection": "tees"
           }
         },
         "collection_MM3Hb4": {
           "type": "collection",
           "settings": {
-            "collection": "default-category-clothing-jumpsuits-playsuits"
+            "collection": "shirts",
+            "image": "shopify://shop_images/DSC8515.jpg"
           }
         },
         "collection_MVwpGH": {
