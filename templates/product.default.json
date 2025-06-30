@@ -85,6 +85,16 @@
             "open": false
           }
         },
+        "collapsible_content_izR6H9": {
+          "type": "collapsible-content",
+          "settings": {
+            "heading": "Country of Origin",
+            "icon": "map_pin",
+            "text": "<p>#</p>",
+            "page": "",
+            "open": false
+          }
+        },
         "divider-1": {
           "type": "divider",
           "settings": {
@@ -107,6 +117,7 @@
         "collapsible_content_kwaLNg",
         "collapsible_content_capRtA",
         "collapsible_content_6x9bpN",
+        "collapsible_content_izR6H9",
         "divider-1",
         "share"
       ],
