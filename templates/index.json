@@ -12,8 +12,8 @@
     "image_banner_CbNCFL": {
       "type": "image-banner",
       "settings": {
-        "image_desktop": "shopify://shop_images/Sale_Alternative_All_Year_1.png",
-        "image_mobile": "shopify://shop_images/Payday_Sale_Banner_2.png",
+        "image_desktop": "shopify://shop_images/SpringSummer_25_3.png",
+        "image_mobile": "shopify://shop_images/SpringSummer_25_4.png",
         "url": "shopify://collections/all-new-in",
         "height_mode": "auto",
         "fixed_height_desktop": 600,
@@ -60,7 +60,6 @@
         "media_zcrahC": {
           "type": "media",
           "settings": {
-            "image": "shopify://shop_images/DRESSES_BLOCK_74ced6e5-bbac-45b1-8a77-6d6adb663c0e.jpg",
             "link_url": "",
             "columns": 1,
             "rows": 1,
@@ -107,7 +106,7 @@
       "type": "featured-collection",
       "custom_css": [],
       "settings": {
-        "title": "New In",
+        "title": "REFRESH YOUR LOOK",
         "heading_align": "text-start",
         "show_view_all": true,
         "collection": "all-new-in",
@@ -117,7 +116,6 @@
         "products_to_show": 8,
         "show_highlight_products": true,
         "show_promo_info": false,
-        "image": "shopify://shop_images/SALE_NEW_BLOCK.jpg",
         "image_ratio": "fill",
         "promo_title": "Example Title",
         "content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>",
@@ -127,167 +125,25 @@
         "button_style": "btn btn--secondary"
       }
     },
-    "media_grid_pMmfcx": {
-      "type": "media-grid",
-      "blocks": {
-        "media_qT4MAr": {
-          "type": "media",
-          "settings": {
-            "image": "shopify://shop_images/Sale_2.png",
-            "link_url": "shopify://collections/pins",
-            "columns": 2,
-            "rows": 1,
-            "subheading": "",
-            "title": "",
-            "heading_size": "h4",
-            "button_label": "",
-            "button_link": "",
-            "overlay_position": "justify-start items-end",
-            "text_alignment": "text-start",
-            "button_style": "btn btn--primary",
-            "tint_color": "#000000",
-            "tint_opacity": 0
-          }
-        },
-        "media_riUX7L": {
-          "type": "media",
-          "settings": {
-            "image": "shopify://shop_images/Sale_1.png",
-            "link_url": "https://www.hellbunny.com/pages/rewards",
-            "columns": 2,
-            "rows": 1,
-            "subheading": "",
-            "title": "",
-            "heading_size": "h4",
-            "button_label": "",
-            "button_link": "",
-            "overlay_position": "justify-start items-end",
-            "text_alignment": "text-start",
-            "button_style": "btn btn--primary",
-            "tint_color": "#000000",
-            "tint_opacity": 0
-          }
-        }
-      },
-      "block_order": [
-        "media_qT4MAr",
-        "media_riUX7L"
-      ],
-      "name": "Media grid",
-      "settings": {
-        "title": "",
-        "heading_align": "text-start",
-        "button_label": "",
-        "button_link": "",
-        "gallery_cols_max": 4,
-        "mobile_carousel": true,
-        "gallery_cols_min": "1",
-        "fixed_height_desktop": 180,
-        "fixed_height_mobile": 300,
-        "section_color_scheme": "none",
-        "color_scheme": "white",
-        "transparent_content_color": "#ffffff"
-      }
-    },
-    "image_banner_JGm6dC": {
-      "type": "image-banner",
-      "settings": {
-        "image_desktop": "shopify://shop_images/Summer_Holidays_3.png",
-        "image_mobile": "shopify://shop_images/Summer_Holidays_2.png",
-        "url": "shopify://collections/collections-summer-holidays",
-        "height_mode": "auto",
-        "fixed_height_desktop": 600,
-        "fixed_height_mobile": 350,
-        "overlay_position": "justify-center items-center",
-        "overlay_text_align": "text-center",
-        "mob_center_text": false,
-        "mobile_stacked": false,
-        "color_scheme": "white",
-        "full_width": true,
-        "transparent_content_color": "#ffffff",
-        "tint_color": "#000000",
-        "tint_opacity": 0,
-        "prevent_animation": false
-      }
-    },
-    "scrolling-banner": {
-      "type": "scrolling-banner",
-      "blocks": {
-        "scrolling-text-1": {
-          "type": "text",
-          "settings": {
-            "text": "Scrolling Banner",
-            "link": "",
-            "font": "heading",
-            "heading_size": "h1"
-          }
-        },
-        "scrolling-icon-2": {
-          "type": "icon",
-          "settings": {
-            "icon": "star",
-            "icon_size": 64
-          }
-        },
-        "scrolling-text-3": {
-          "type": "text",
-          "settings": {
-            "text": "Grab customers' attention",
-            "link": "",
-            "font": "body",
-            "heading_size": "h1"
-          }
-        },
-        "scrolling-button-4": {
-          "type": "button",
-          "settings": {
-            "button_label": "Optional Button",
-            "button_link": "/",
-            "button_style": "btn btn--primary"
-          }
-        }
-      },
-      "block_order": [
-        "scrolling-text-1",
-        "scrolling-icon-2",
-        "scrolling-text-3",
-        "scrolling-button-4"
-      ],
-      "disabled": true,
-      "custom_css": [],
-      "settings": {
-        "section_height": "default",
-        "spacing": 56,
-        "speed": 7,
-        "direction": "normal",
-        "pausable": true,
-        "color_scheme": "1",
-        "dividers": "border-top border-bottom",
-        "prevent_animation": false
-      }
-    },
     "collection-list": {
       "type": "collection-list",
       "blocks": {
         "collection_dPfVdD": {
           "type": "collection",
           "settings": {
-            "collection": "alternative",
-            "image": "shopify://shop_images/1_2c820b5c-dd17-456b-84e9-523466baae41.png"
+            "collection": "alternative"
           }
         },
         "collection_MM3Hb4": {
           "type": "collection",
           "settings": {
-            "collection": "default-category-clothing-jumpsuits-playsuits",
-            "image": "shopify://shop_images/3_97f30c43-1fb5-405c-a08c-1fe292fbb15b.png"
+            "collection": "default-category-clothing-jumpsuits-playsuits"
           }
         },
         "collection_MVwpGH": {
           "type": "collection",
           "settings": {
-            "collection": "smiley-x-hell-bunny",
-            "image": "shopify://shop_images/2_be60280e-790c-4ab6-9cd3-9ae109360888.png"
+            "collection": "smiley-x-hell-bunny"
           }
         }
       },
@@ -374,7 +230,6 @@
       ],
       "disabled": true,
       "settings": {
-        "image_desktop": "shopify://shop_images/DENIM_BLOCK.jpg",
         "url": "",
         "height_mode": "auto",
         "fixed_height_desktop": 600,
@@ -397,7 +252,6 @@
         "slide-1": {
           "type": "slide",
           "settings": {
-            "image_desktop": "shopify://shop_images/Hero.webp",
             "url": "",
             "overlay_position": "justify-center items-center",
             "overlay_text_align": "text-center",
@@ -739,7 +593,6 @@
       ],
       "disabled": true,
       "settings": {
-        "image": "shopify://shop_images/GABRIELLA_TOP_-_IRVINE_SKIRT_3.jpg",
         "layout": "image_first",
         "show_vendor": true,
         "show_content": false,
@@ -1183,9 +1036,6 @@
     "image_banner_CbNCFL",
     "promo-grid",
     "featured-collection",
-    "media_grid_pMmfcx",
-    "image_banner_JGm6dC",
-    "scrolling-banner",
     "collection-list",
     "featured_collection_KEenRw",
     "image-banner",
