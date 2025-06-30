@@ -144,7 +144,8 @@
         "collection_MVwpGH": {
           "type": "collection",
           "settings": {
-            "collection": "smiley-x-hell-bunny"
+            "collection": "bottoms",
+            "image": "shopify://shop_images/CR_tile_draft_2000_x_2000_px.png"
           }
         }
       },
