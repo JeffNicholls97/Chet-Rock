@@ -89,12 +89,12 @@
         ".cc-header--sticky .main-menu__disclosure {max-height: unset !important; transition: unset !important;}"
       ],
       "settings": {
-        "enable_sticky": true,
+        "enable_sticky": false,
         "mobile_menu_position": "burger-left",
         "logo_text": "Chet Rock",
         "logo_type_scale": "2",
         "logo": "shopify://shop_images/CHETROCK_Logo_1Level_Black_8d6edaac-45f8-4af6-a38f-a67b0332dd1d.png",
-        "logo_width": 170,
+        "logo_width": 130,
         "logo_h1": false,
         "logo_center": false,
         "enable_search": true,
