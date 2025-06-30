@@ -40,22 +40,12 @@
             "text": "<p>all orders over £65</p>",
             "link": ""
           }
-        },
-        "icons-with-text-4": {
-          "type": "item",
-          "settings": {
-            "icon": "dollar_sign",
-            "heading": "Sizes from",
-            "text": "<p>XS to 6XL</p>",
-            "link": ""
-          }
         }
       },
       "block_order": [
         "icons-with-text-1",
         "icons-with-text-2",
-        "icons-with-text-3",
-        "icons-with-text-4"
+        "icons-with-text-3"
       ],
       "settings": {
         "heading": "",
