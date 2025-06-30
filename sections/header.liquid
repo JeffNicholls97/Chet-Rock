@@ -158,9 +158,7 @@ main-menu.main-menu.main-menu--left-mob {
         {%- endif -%}
       {%- endif -%}
 
-      <a class="header__icon text-current" href="/a/wishlist-hero/wishlist">
-        {%- render 'icon-heart' -%}
-      </a>
+
 
       <a class="header__icon{% if settings.cart_shaking and cart != empty %} header__icon--cart-shake has-motion{% endif %} relative text-current" id="cart-icon" href="{{ routes.cart_url }}"{% if settings.cart_shaking and cart != empty %} data-shake-frequency="{{ settings.cart_shaking_frequency }}"{% endif %}{% if settings.preload_links %} data-no-instant{% endif %}>
         {%- if settings.cart_icon == 'bag' -%}
