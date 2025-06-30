@@ -176,10 +176,10 @@
     "featured_collection_KEenRw": {
       "type": "featured-collection",
       "settings": {
-        "title": "Shop Grunge",
+        "title": "Coats & Jackets",
         "heading_align": "text-start",
         "show_view_all": true,
-        "collection": "default-category-collections-grunge",
+        "collection": "outerwear",
         "layout": "carousel",
         "card_size_mobile": "large",
         "card_size": "small",

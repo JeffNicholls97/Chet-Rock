@@ -18,7 +18,6 @@
           "type": "item",
           "settings": {
             "icon": "chat_bubble",
-            "custom_icon": "shopify://shop_images/united-kingdom_6828c186-988a-4cb8-abab-53bec964fbcd.png",
             "heading": "Designed in the",
             "text": "<p>United Kingdom</p>",
             "link": ""
@@ -28,7 +27,6 @@
           "type": "item",
           "settings": {
             "icon": "box",
-            "custom_icon": "shopify://shop_images/Klarna.png",
             "heading": "Buy Now, Pay Later",
             "text": "<p>with Klarna</p>",
             "link": ""
@@ -38,7 +36,6 @@
           "type": "item",
           "settings": {
             "icon": "return",
-            "custom_icon": "shopify://shop_images/Delivery.png",
             "heading": "Free Delivery on",
             "text": "<p>all orders over £65</p>",
             "link": ""
@@ -48,7 +45,6 @@
           "type": "item",
           "settings": {
             "icon": "dollar_sign",
-            "custom_icon": "shopify://shop_images/Heart.png",
             "heading": "Sizes from",
             "text": "<p>XS to 6XL</p>",
             "link": ""
@@ -82,7 +78,7 @@
         "text": {
           "type": "text",
           "settings": {
-            "image": "shopify://shop_images/Hell-Bunny.webp",
+            "image": "shopify://shop_images/CHETROCK_Logo_1Level_Black_8d6edaac-45f8-4af6-a38f-a67b0332dd1d.png",
             "image_width": 150,
             "heading": "",
             "text": "",
