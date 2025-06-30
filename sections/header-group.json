@@ -17,7 +17,7 @@
         "announcement-1": {
           "type": "announcement",
           "settings": {
-            "text": "<p>Subscribe to our newsletter below to get 10% off your first order! <a href=\"/collections/all-new-in\" title=\"All New In\">Shop New In</a></p>"
+            "text": "<p><a href=\"https://chetrock.com/collections/all-new-in\" title=\"All New In\">SPEND OVER £150 AND ENJOY 15% OFF YOUR ORDER! (USE CODE \"VINTAGE15\")</a></p>"
           }
         }
       },
