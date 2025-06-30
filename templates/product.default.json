@@ -46,6 +46,15 @@
             "size_chart_page": "size-chart"
           }
         },
+        "buy_buttons_ntpiPz": {
+          "type": "buy-buttons",
+          "settings": {
+            "show_qty_selector": true,
+            "enable_dynamic_checkout": true,
+            "show_pickup_availability": true,
+            "show_gift_card_recipient": true
+          }
+        },
         "divider-1": {
           "type": "divider",
           "settings": {
@@ -73,6 +82,7 @@
         "rating",
         "price",
         "variant-picker",
+        "buy_buttons_ntpiPz",
         "divider-1",
         "product-signup",
         "share"
