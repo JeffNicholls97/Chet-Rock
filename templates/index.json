@@ -447,6 +447,7 @@
         "text_EibAB7",
         "form_DPnban"
       ],
+      "disabled": true,
       "settings": {
         "overlay_position": "justify-center",
         "text_align": "text-center",
