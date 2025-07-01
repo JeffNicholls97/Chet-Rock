@@ -228,8 +228,8 @@
         "heading_align": "text-start",
         "layout": "grid",
         "card_size_mobile": "small",
-        "card_size": "large",
-        "products_to_show": 8
+        "card_size": "small",
+        "products_to_show": 6
       }
     }
   },
