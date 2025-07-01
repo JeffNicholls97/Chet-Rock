@@ -146,11 +146,11 @@
     data-default-image="{{ current_variant.featured_media | img_url: '533x' }}"
     class="card card--product{{ card_class }} h-full{% if settings.card_contain %} card--product-contained{% endif %}{% unless settings.show_dividers %} card--no-lines{% endunless %}{% if show_compare %} card--product-compare{% endif %} relative flex{% if is_highlighted %} card--highlight-product{% endif %}">
 
-    {%- if is_gift_card == true -%}
-      {%- assign has_gift_card_tag = product.featured_image -%}
-      {%- else -%}
-      {%- assign has_gift_card_tag = variant.featured_image -%}
-    {%- endif -%}
+{%- if is_gift_card == true -%}
+  {%- assign has_gift_card_tag = product.featured_image -%}
+  {%- else -%}
+  {%- assign has_gift_card_tag = featured_media.preview_image -%}
+{%- endif -%}
 
     {%- if show_compare -%}
       <div class="card__compare no-js-hidden text-sm">
