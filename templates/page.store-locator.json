@@ -14,6 +14,7 @@
       "name": "Image banner",
       "settings": {
         "image_desktop": "shopify://shop_images/VISIT_US.png",
+        "image_mobile": "shopify://shop_images/VISIT_US_1.png",
         "url": "",
         "height_mode": "auto",
         "fixed_height_desktop": 600,
