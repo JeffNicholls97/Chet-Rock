@@ -46,6 +46,12 @@
             "text_no_stock_backordered": "<p>Backordered</p>"
           }
         },
+        "custom_liquid_ng4Jce": {
+          "type": "custom-liquid",
+          "settings": {
+            "custom_liquid": "{%- comment -%}\n  Buy 2 Get 15% Off — promo box (no icon)\n  Usage: {% render 'buy2-15-promo' %}\n  Hide on specific products by adding the tag: hide-buy2-15-promo\n{%- endcomment -%}\n\n{%- unless product.tags contains 'hide-buy2-15-promo' -%}\n  <div class=\"promo-b2g15\" role=\"note\" aria-label=\"Buy 2 get 15% off\">\n    <p class=\"promo-b2g15__title\">Buy 2 and get 15% off your order</p>\n    <p class=\"promo-b2g15__text\">Add any 2 eligible items to your basket and the discount applies automatically at checkout. No code needed.</p>\n  </div>\n\n  <style>\n    .promo-b2g15{\n      padding:12px 14px;\n      background:#f7f7f5; /* off-white */\n      border:1px solid rgba(0,0,0,.08);\n      border-radius:0; /* square corners */\n      margin:12px 0;\n    }\n    .promo-b2g15__title{\n      margin:0 0 4px 0;\n      font-weight:600;\n      font-size:.95rem;\n    }\n    .promo-b2g15__text{\n      margin:0;\n      font-size:.9rem;\n      opacity:.9;\n    }\n  </style>\n{%- endunless -%}"
+          }
+        },
         "variant-picker": {
           "type": "variant-picker",
           "settings": {
@@ -125,6 +131,7 @@
         "rating",
         "price",
         "inventory_status_jXWabM",
+        "custom_liquid_ng4Jce",
         "variant-picker",
         "buy_buttons_ntpiPz",
         "collapsible_content_kwaLNg",
