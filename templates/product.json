@@ -34,6 +34,18 @@
             "show_tax_and_shipping": false
           }
         },
+        "inventory_status_jXWabM": {
+          "type": "inventory-status",
+          "settings": {
+            "show_indicator_bar": true,
+            "show_urgency_message": true,
+            "text_very_low": "<p>- Almost gone!</p>",
+            "text_low": "<p>- Hurry while stocks last!</p>",
+            "text_normal": "",
+            "text_no_stock": "",
+            "text_no_stock_backordered": "<p>Backordered</p>"
+          }
+        },
         "variant-picker": {
           "type": "variant-picker",
           "settings": {
@@ -112,6 +124,7 @@
         "title",
         "rating",
         "price",
+        "inventory_status_jXWabM",
         "variant-picker",
         "buy_buttons_ntpiPz",
         "collapsible_content_kwaLNg",
