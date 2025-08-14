@@ -5584,3 +5584,8 @@ body > .os-scrollbar {
     font-size: 13px;
 }
  }
+
+
+ h2.section__block.promo-strip__heading.shrink-0.h6 {
+    font-size: 14px !important;
+}
