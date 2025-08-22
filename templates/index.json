@@ -12,9 +12,9 @@
     "image_banner_CbNCFL": {
       "type": "image-banner",
       "settings": {
-        "image_desktop": "shopify://shop_images/SpringSummer_25_3.png",
-        "image_mobile": "shopify://shop_images/SpringSummer_25_4.png",
-        "url": "shopify://collections/all-new-in",
+        "image_desktop": "shopify://shop_images/SUMMER_SALE.png",
+        "image_mobile": "shopify://shop_images/SUMMER_SALE_1.png",
+        "url": "shopify://collections/new-in",
         "height_mode": "auto",
         "fixed_height_desktop": 600,
         "fixed_height_mobile": 350,
