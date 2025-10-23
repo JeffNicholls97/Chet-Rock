@@ -95,7 +95,7 @@
         {%- endif -%}
 
         {% if collection.description.size > 100 %}
-<div id="truncated">{{ collection.description | truncatewords: 100, "... <button class='hover:tw-underline mt-2 tw-font-bold'><a class='read-more-collection' data-no-instant>Read More</a></button>" }}</div>
+<div id="truncated">{{ collection.description | truncatewords: 50, "... <button class='hover:tw-underline mt-2 tw-font-bold'><a class='read-more-collection' data-no-instant>Read More</a></button>" }}</div>
 <div id="fullDescription" style="display: none">{{ collection.description | append: " <button class='hover:tw-underline mt-2 tw-font-bold'><a class='read-more-collection' data-no-instant>Read Less</a></button>" }}</div>
 {% else %}
 <div id="fullDescription" style="display: none">{{ collection.description }}</div>
