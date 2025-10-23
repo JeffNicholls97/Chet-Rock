@@ -11,17 +11,6 @@
   "type": "footer",
   "name": "Footer Group",
   "sections": {
-    "custom_liquid_9KYrz3": {
-      "type": "custom-liquid",
-      "name": "Custom HTML/Liquid",
-      "settings": {
-        "custom_liquid": "<p>Born in London, Chet Rock blends heritage workwear with the restless spirit of the streets. Every collection is shaped by resilience and culture, inspired by those who graft, create and move with purpose. Our alternative menswear carries the soul of British workwear and the energy of modern street style, designed for men who live loud and stand apart. Each piece tells a story of craftsmanship and character, built to last and made to move.</p>\n<p>From graphic t-shirts that nod to underground music scenes to tough overshirts and workwear-inspired jeans, Chet Rock celebrates timeless design with an edge. Our sweats deliver comfort without compromise, while our outerwear keeps you covered from gig to street. As a brand rooted in London&rsquo;s subcultures, we create independent streetwear that reflects real people, real stories and real movement. Chet Rock is men&rsquo;s streetwear built on legacy and driven by energy. </p>",
-        "section_height": "default",
-        "full_width": false,
-        "dividers": "none",
-        "prevent_animation": false
-      }
-    },
     "icons-with-text": {
       "type": "icons-with-text",
       "blocks": {
@@ -137,7 +126,6 @@
     }
   },
   "order": [
-    "custom_liquid_9KYrz3",
     "icons-with-text",
     "footer"
   ]
