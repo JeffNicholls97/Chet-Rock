@@ -12,9 +12,9 @@
     "image_banner_CbNCFL": {
       "type": "image-banner",
       "settings": {
-        "image_desktop": "shopify://shop_images/CR_2.png",
-        "image_mobile": "shopify://shop_images/4_bb0286a6-b0c7-42e3-966e-f91540a8880e.png",
-        "url": "shopify://collections/new-in",
+        "image_desktop": "shopify://shop_images/KEEP_IT_MOVIN.png",
+        "image_mobile": "shopify://shop_images/KEEP_IT_MOVIN_1.png",
+        "url": "shopify://collections/all-new-in",
         "height_mode": "auto",
         "fixed_height_desktop": 600,
         "fixed_height_mobile": 350,
