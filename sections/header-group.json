@@ -13,6 +13,17 @@
   "sections": {
     "announcement": {
       "type": "announcement",
+      "blocks": {
+        "announcement_H9Drty": {
+          "type": "announcement",
+          "settings": {
+            "text": "<p>Free shipping on all orders over £65! <a href=\"https://chetrock.com/collections/all-new-in\" title=\"https://chetrock.com/collections/all-new-in\">Shop Now</a></p>"
+          }
+        }
+      },
+      "block_order": [
+        "announcement_H9Drty"
+      ],
       "settings": {
         "link1": "",
         "link1_label": "",
@@ -108,20 +119,6 @@
     },
     "promo-strip": {
       "type": "promo-strip",
-      "blocks": {
-        "heading-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Buy 2 and Get 15% Off Your Order!",
-            "heading_size": "h6",
-            "show_on_mobile": true,
-            "show_on_desktop": true
-          }
-        }
-      },
-      "block_order": [
-        "heading-0"
-      ],
       "settings": {
         "section_height": "medium",
         "color_scheme": "none",
