@@ -13,17 +13,6 @@
   "sections": {
     "announcement": {
       "type": "announcement",
-      "blocks": {
-        "announcement-1": {
-          "type": "announcement",
-          "settings": {
-            "text": "<p><a href=\"/collections/tees\" title=\"T-Shirts\">3 FOR 2 ON T-SHIRTS - SHOP NOW</a></p>"
-          }
-        }
-      },
-      "block_order": [
-        "announcement-1"
-      ],
       "settings": {
         "link1": "",
         "link1_label": "",
