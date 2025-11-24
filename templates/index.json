@@ -12,8 +12,8 @@
     "image_banner_CbNCFL": {
       "type": "image-banner",
       "settings": {
-        "image_desktop": "shopify://shop_images/BLACK_FRIDAY_SALE.png",
-        "image_mobile": "shopify://shop_images/BLACK_FRIDAY_SALE_1.png",
+        "image_desktop": "shopify://shop_images/BLACK_FRIDAY_SALE_3.png",
+        "image_mobile": "shopify://shop_images/BLACK_FRIDAY_SALE_2.png",
         "url": "shopify://collections/black-friday-sale",
         "height_mode": "auto",
         "fixed_height_desktop": 600,
