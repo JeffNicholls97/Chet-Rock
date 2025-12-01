@@ -12,8 +12,8 @@
     "image_banner_WHK8Kw": {
       "type": "image-banner",
       "settings": {
-        "image_desktop": "shopify://shop_images/BLACK_FRIDAY_SALE_10.png",
-        "image_mobile": "shopify://shop_images/BLACK_FRIDAY_SALE_11.png",
+        "image_desktop": "shopify://shop_images/BLACK_FRIDAY_SALE_12.png",
+        "image_mobile": "shopify://shop_images/BLACK_FRIDAY_SALE_13.png",
         "url": "shopify://collections/all-new-in",
         "height_mode": "auto",
         "fixed_height_desktop": 600,
