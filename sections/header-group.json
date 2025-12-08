@@ -14,6 +14,12 @@
     "announcement": {
       "type": "announcement",
       "blocks": {
+        "announcement_fUMGXJ": {
+          "type": "announcement",
+          "settings": {
+            "text": "<p><a href=\"/collections/black-friday-sale\" title=\"BLACK FRIDAY SALE\">UP TO 50% OFF SALE! - SHOP NOW</a></p>"
+          }
+        },
         "announcement_H9Drty": {
           "type": "announcement",
           "settings": {
@@ -22,6 +28,7 @@
         }
       },
       "block_order": [
+        "announcement_fUMGXJ",
         "announcement_H9Drty"
       ],
       "settings": {

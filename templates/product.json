@@ -46,12 +46,6 @@
             "text_no_stock_backordered": "<p>Backordered</p>"
           }
         },
-        "custom_liquid_ng4Jce": {
-          "type": "custom-liquid",
-          "settings": {
-            "custom_liquid": "<px> 25% off sitewide! No code needed. <px>"
-          }
-        },
         "variant-picker": {
           "type": "variant-picker",
           "settings": {
@@ -131,7 +125,6 @@
         "rating",
         "price",
         "inventory_status_jXWabM",
-        "custom_liquid_ng4Jce",
         "variant-picker",
         "buy_buttons_ntpiPz",
         "collapsible_content_kwaLNg",
