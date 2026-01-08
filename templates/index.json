@@ -12,9 +12,9 @@
     "image_banner_WHK8Kw": {
       "type": "image-banner",
       "settings": {
-        "image_desktop": "shopify://shop_images/UP_TO.png",
-        "image_mobile": "shopify://shop_images/UP_TO_1.png",
-        "url": "shopify://collections/black-friday-sale",
+        "image_desktop": "shopify://shop_images/KEEP_IT_MOVIN_4.png",
+        "image_mobile": "shopify://shop_images/KEEP_IT_MOVIN_5.png",
+        "url": "shopify://collections/all-new-in",
         "height_mode": "auto",
         "fixed_height_desktop": 600,
         "fixed_height_mobile": 350,

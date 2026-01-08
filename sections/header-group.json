@@ -17,19 +17,12 @@
         "announcement_fUMGXJ": {
           "type": "announcement",
           "settings": {
-            "text": "<p><a href=\"/collections/black-friday-sale\" title=\"BLACK FRIDAY SALE\">UP TO 50% OFF SALE! - SHOP NOW</a></p>"
-          }
-        },
-        "announcement_H9Drty": {
-          "type": "announcement",
-          "settings": {
-            "text": "<p>IMPORTANT NOTICE REGARDING SHIPPING - <a href=\"/pages/delivery\" title=\"Delivery\">MORE INFO</a></p>"
+            "text": "<p>Free shipping on all orders over £65! - <a href=\"/collections/all-new-in\" title=\"All New In\">Shop Now</a></p>"
           }
         }
       },
       "block_order": [
-        "announcement_fUMGXJ",
-        "announcement_H9Drty"
+        "announcement_fUMGXJ"
       ],
       "settings": {
         "link1": "",
