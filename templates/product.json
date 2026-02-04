@@ -46,18 +46,6 @@
             "text_no_stock_backordered": "<p>Backordered</p>"
           }
         },
-        "message_iB3wVh": {
-          "type": "message",
-          "settings": {
-            "icon": "none",
-            "title": "<p>25% OFF - CODE: JAN25</p>",
-            "close": "once",
-            "show_over_media": false,
-            "visibility_duration": 7,
-            "bg_color": "#fcedee",
-            "text_color": "#b40c1c"
-          }
-        },
         "custom_liquid_DfJbqe": {
           "type": "custom-liquid",
           "settings": {
@@ -143,7 +131,6 @@
         "rating",
         "price",
         "inventory_status_jXWabM",
-        "message_iB3wVh",
         "custom_liquid_DfJbqe",
         "variant-picker",
         "buy_buttons_ntpiPz",
