@@ -73,6 +73,18 @@
             "show_gift_card_recipient": true
           }
         },
+        "message_q4LVPw": {
+          "type": "message",
+          "settings": {
+            "icon": "none",
+            "title": "<p>Get 20% Off Everything Using Code PAY20</p>",
+            "close": "once",
+            "show_over_media": false,
+            "visibility_duration": 7,
+            "bg_color": "#e8f6ea",
+            "text_color": "#2a2b2a"
+          }
+        },
         "collapsible_content_kwaLNg": {
           "type": "collapsible-content",
           "settings": {
@@ -134,6 +146,7 @@
         "custom_liquid_DfJbqe",
         "variant-picker",
         "buy_buttons_ntpiPz",
+        "message_q4LVPw",
         "collapsible_content_kwaLNg",
         "collapsible_content_capRtA",
         "collapsible_content_6x9bpN",
