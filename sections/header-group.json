@@ -14,14 +14,21 @@
     "announcement": {
       "type": "announcement",
       "blocks": {
+        "announcement_CYCVmp": {
+          "type": "announcement",
+          "settings": {
+            "text": "<p>Get 20% Off Everything Using Code PAY20</p>"
+          }
+        },
         "announcement_fUMGXJ": {
           "type": "announcement",
           "settings": {
-            "text": "<p>Free shipping on all orders £65! - <a href=\"/collections/all-new-in\" title=\"All New In\">Shop Now</a></p>"
+            "text": "<p>Free shipping on all orders £65! - <a href=\"/collections/all-new-in\" title=\"All New In\">Shop Now </a></p>"
           }
         }
       },
       "block_order": [
+        "announcement_CYCVmp",
         "announcement_fUMGXJ"
       ],
       "settings": {
