@@ -14,12 +14,6 @@
     "announcement": {
       "type": "announcement",
       "blocks": {
-        "announcement_CYCVmp": {
-          "type": "announcement",
-          "settings": {
-            "text": "<p>Get 20% Off Everything Using Code PAY20</p>"
-          }
-        },
         "announcement_fUMGXJ": {
           "type": "announcement",
           "settings": {
@@ -28,7 +22,6 @@
         }
       },
       "block_order": [
-        "announcement_CYCVmp",
         "announcement_fUMGXJ"
       ],
       "settings": {
