@@ -25,7 +25,7 @@ a.mobile-wishlist {
     <span class="visually-hidden">{{ 'general.icon_labels.menu' | t }}</span>
   </summary>
   <div class="main-menu__content has-motion {% if section.settings.quicklinks_menu == blank and section.settings.cta_show == false and section.settings.menu_center %}justify-center{% else %}justify-between{% endif %}">
-    <a class="mobile-wishlist" href="/a/wishlist-hero/wishlist" aria-current="page"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-heart-icon lucide-heart"><path d="M19 14c1.49-1.46 3-3.21 3-5.5A5.5 5.5 0 0 0 16.5 3c-1.76 0-3 .5-4.5 2-1.5-1.5-2.74-2-4.5-2A5.5 5.5 0 0 0 2 8.5c0 2.3 1.5 4.05 3 5.5l7 7Z"></path></svg>Wishlist</a>
+    <a class="mobile-wishlist" href="#" aria-current="page"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-heart-icon lucide-heart"><path d="M19 14c1.49-1.46 3-3.21 3-5.5A5.5 5.5 0 0 0 16.5 3c-1.76 0-3 .5-4.5 2-1.5-1.5-2.74-2-4.5-2A5.5 5.5 0 0 0 2 8.5c0 2.3 1.5 4.05 3 5.5l7 7Z"></path></svg>Wishlist</a>
     <nav aria-label="{{ 'accessibility.main_navigation' | t }}">
       <ul class="main-nav{% if section.settings.quicklinks_menu == blank and section.settings.cta_show == false and section.settings.menu_center %} justify-center{% endif %}">
         {%- for link in section.settings.menu.links -%}
