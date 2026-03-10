@@ -88,7 +88,7 @@
           "settings": {
             "heading": "Shipping Information",
             "icon": "truck",
-            "text": "<p>Next Day Delivery - Excluding Weekends Free - Spend Over £65.00</p><p>Next Day Delivery - Excluding Weekends £4.99</p><p>International Delivery £20.00</p><p>Our returns process is easier than ever! Head to our <a href=\"https://chetrock.com/pages/uk-returns\" target=\"_blank\" title=\"UK Returns\"><span style=\"text-decoration:underline\">Returns page</span></a> for more info.</p>",
+            "text": "<p>Next Day Delivery - Excluding Weekends Free - Spend Over £65.00</p><p>Next Day Delivery - Excluding Weekends £4.99</p><p>International Delivery £20.00</p><p>Our returns process is easier than ever! Head to our <a href=\"https://chetrock.com/pages/returns\" target=\"_blank\" title=\"UK Returns\"><span style=\"text-decoration:underline\">Returns page</span></a> for more info.</p>",
             "page": "",
             "open": false
           }
